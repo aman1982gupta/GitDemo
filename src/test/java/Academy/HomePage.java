@@ -39,6 +39,9 @@ public class HomePage extends base{
 		LoginPage lp=new LoginPage(driver);
 		lp.getEmail().sendKeys(Username);
 		lp.getPassword().sendKeys(Password);
+		
+		System.out.println("for git");
+		System.out.println("for git1");
 
 		log.info(text);
 		
