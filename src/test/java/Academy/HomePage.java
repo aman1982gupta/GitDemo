@@ -42,6 +42,8 @@ public class HomePage extends base{
 		
 		System.out.println("for git");
 		System.out.println("for git1");
+		System.out.println("for git2");
+		System.out.println("for git3");
 
 		log.info(text);
 		
